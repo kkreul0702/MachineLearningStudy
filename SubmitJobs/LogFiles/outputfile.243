@@ -1,0 +1,576 @@
+['/users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py', 'JET_JER_EffectiveNP_10__1up_PseudoData', 'MC16e', 'Odd']
+Running for Syst: JET_JER_EffectiveNP_10__1up_PseudoData
+/rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_NewFullMEM_MC16e/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/JET_JER_EffectiveNP_10__1up_PseudoData/
+                 1         2         3
+0                                     
+410000  377.993200  1.194900    pythia
+410001  377.993200  1.194900    pythia
+410002  377.993200  1.194900    pythia
+410003  377.309000  1.197000  herwigpp
+410004  378.700600  1.192600  herwigpp
+...            ...       ...       ...
+601738   40.113000  1.000000   pythia8
+601737   40.113000  1.000000   pythia8
+512185    0.343370  0.320823   pythia8
+512186    0.000002  0.491622   pythia8
+512187    0.008536  0.404554   pythia8
+
+[6239 rows x 3 columns]
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410646Wt.root
+ELSE
+410646Wt
+410646Wt
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410644schanlt.root
+ELSE
+410644schanlt
+410644schanlt
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410645schanltbar.root
+ELSE
+410645schanltbar
+410645schanltbar
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410647Wtbar.root
+ELSE
+410647Wtbar
+410647Wtbar
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364156WmunuLight.root
+ELSE
+364156WmunuLight
+364156WmunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364159WmunuLight.root
+ELSE
+364159WmunuLight
+364159WmunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364165WmunuLight.root
+ELSE
+364165WmunuLight
+364165WmunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364162WmunuLight.root
+ELSE
+364162WmunuLight
+364162WmunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364173WenuLight.root
+ELSE
+364173WenuLight
+364173WenuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364190WtaunuLight.root
+ELSE
+364190WtaunuLight
+364190WtaunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364184WtaunuLight.root
+ELSE
+364184WtaunuLight
+WARNING this sample has no entries
+364184WtaunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364170WenuLight.root
+ELSE
+364170WenuLight
+364170WenuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364176WenuLight.root
+ELSE
+364176WenuLight
+364176WenuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364187WtaunuLight.root
+ELSE
+364187WtaunuLight
+364187WtaunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364179WenuLight.root
+ELSE
+364179WenuLight
+364179WenuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364193WtaunuLight.root
+ELSE
+364193WtaunuLight
+WARNING this sample has no entries
+364193WtaunuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364157WmunuC.root
+ELSE
+364157WmunuC
+364157WmunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364160WmunuC.root
+ELSE
+364160WmunuC
+364160WmunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364158WmunuB.root
+ELSE
+364158WmunuB
+364158WmunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410658tchanlt.root
+ELSE
+410658tchanlt
+410658tchanlt
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364163WmunuC.root
+ELSE
+364163WmunuC
+364163WmunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364161WmunuB.root
+ELSE
+364161WmunuB
+364161WmunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410659tchanltbar.root
+ELSE
+410659tchanltbar
+410659tchanltbar
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364166WmunuC.root
+ELSE
+364166WmunuC
+364166WmunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364171WenuC.root
+ELSE
+364171WenuC
+364171WenuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364174WenuC.root
+ELSE
+364174WenuC
+364174WenuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364172WenuB.root
+ELSE
+364172WenuB
+364172WenuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364167WmunuB.root
+ELSE
+364167WmunuB
+364167WmunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364164WmunuB.root
+ELSE
+364164WmunuB
+364164WmunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364177WenuC.root
+ELSE
+364177WenuC
+364177WenuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364180WenuC.root
+ELSE
+364180WenuC
+364180WenuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364175WenuB.root
+ELSE
+364175WenuB
+364175WenuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364181WenuB.root
+ELSE
+364181WenuB
+364181WenuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364185WtaunuC.root
+ELSE
+364185WtaunuC
+WARNING this sample has no entries
+364185WtaunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364186WtaunuB.root
+ELSE
+364186WtaunuB
+364186WtaunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364188WtaunuC.root
+ELSE
+364188WtaunuC
+364188WtaunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364191WtaunuC.root
+ELSE
+364191WtaunuC
+364191WtaunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364189WtaunuB.root
+ELSE
+364189WtaunuB
+364189WtaunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364194WtaunuC.root
+ELSE
+364194WtaunuC
+364194WtaunuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364192WtaunuB.root
+ELSE
+364192WtaunuB
+364192WtaunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364178WenuB.root
+ELSE
+364178WenuB
+364178WenuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364195WtaunuB.root
+ELSE
+364195WtaunuB
+364195WtaunuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364168Wmunu.root
+ELSE
+364168Wmunu
+364168Wmunu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364169Wmunu.root
+ELSE
+364169Wmunu
+364169Wmunu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364182Wenu.root
+ELSE
+364182Wenu
+364182Wenu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364183Wenu.root
+ELSE
+364183Wenu
+364183Wenu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364196Wtaunu.root
+ELSE
+364196Wtaunu
+364196Wtaunu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364197Wtaunu.root
+ELSE
+364197Wtaunu
+364197Wtaunu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364100ZmumuLight.root
+ELSE
+364100ZmumuLight
+364100ZmumuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364101ZmumuC.root
+ELSE
+364101ZmumuC
+364101ZmumuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364102ZmumuB.root
+ELSE
+364102ZmumuB
+364102ZmumuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364103ZmumuLight.root
+ELSE
+364103ZmumuLight
+WARNING this sample has no entries
+364103ZmumuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364104ZmumuC.root
+ELSE
+364104ZmumuC
+364104ZmumuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364105ZmumuB.root
+ELSE
+364105ZmumuB
+364105ZmumuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364106ZmumuLight.root
+ELSE
+364106ZmumuLight
+WARNING this sample has no entries
+364106ZmumuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364109ZmumuLight.root
+ELSE
+364109ZmumuLight
+364109ZmumuLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364107ZmumuC.root
+ELSE
+364107ZmumuC
+364107ZmumuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364110ZmumuC.root
+ELSE
+364110ZmumuC
+364110ZmumuC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364108ZmumuB.root
+ELSE
+364108ZmumuB
+364108ZmumuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364112Zmumu.root
+ELSE
+364112Zmumu
+364112Zmumu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364111ZmumuB.root
+ELSE
+364111ZmumuB
+364111ZmumuB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364113Zmumu.root
+ELSE
+364113Zmumu
+364113Zmumu
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364114ZeeLight.root
+ELSE
+364114ZeeLight
+WARNING this sample has no entries
+364114ZeeLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364115ZeeC.root
+ELSE
+364115ZeeC
+364115ZeeC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364116ZeeB.root
+ELSE
+364116ZeeB
+364116ZeeB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364117ZeeLight.root
+ELSE
+364117ZeeLight
+364117ZeeLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364118ZeeC.root
+ELSE
+364118ZeeC
+364118ZeeC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364119ZeeB.root
+ELSE
+364119ZeeB
+364119ZeeB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_410470ttbar.root
+ELSE
+410470ttbar
+410470ttbar
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364120ZeeLight.root
+ELSE
+364120ZeeLight
+364120ZeeLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364121ZeeC.root
+ELSE
+364121ZeeC
+364121ZeeC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364122ZeeB.root
+ELSE
+364122ZeeB
+364122ZeeB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364123ZeeLight.root
+ELSE
+364123ZeeLight
+WARNING this sample has no entries
+364123ZeeLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364124ZeeC.root
+ELSE
+364124ZeeC
+364124ZeeC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364125ZeeB.root
+ELSE
+364125ZeeB
+364125ZeeB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364126Zee.root
+ELSE
+364126Zee
+364126Zee
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364127Zee.root
+ELSE
+364127Zee
+364127Zee
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364128ZtautauLight.root
+ELSE
+364128ZtautauLight
+WARNING this sample has no entries
+364128ZtautauLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364130ZtautauB.root
+ELSE
+364130ZtautauB
+364130ZtautauB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364131ZtautauLight.root
+ELSE
+364131ZtautauLight
+364131ZtautauLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364132ZtautauC.root
+ELSE
+364132ZtautauC
+364132ZtautauC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364129ZtautauC.root
+ELSE
+364129ZtautauC
+364129ZtautauC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364135ZtautauC.root
+ELSE
+364135ZtautauC
+364135ZtautauC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364136ZtautauB.root
+ELSE
+364136ZtautauB
+364136ZtautauB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364137ZtautauLight.root
+ELSE
+364137ZtautauLight
+364137ZtautauLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364133ZtautauB.root
+ELSE
+364133ZtautauB
+364133ZtautauB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364138ZtautauC.root
+ELSE
+364138ZtautauC
+364138ZtautauC
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364139ZtautauB.root
+ELSE
+364139ZtautauB
+364139ZtautauB
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364140Ztautau.root
+ELSE
+364140Ztautau
+364140Ztautau
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364141Ztautau.root
+ELSE
+364141Ztautau
+364141Ztautau
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364250llll.root
+ELSE
+364250llll
+364250llll
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364253lllv.root
+ELSE
+364253lllv
+364253lllv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364254llvv.root
+ELSE
+364254llvv
+364254llvv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364255lvvv.root
+ELSE
+364255lvvv
+364255lvvv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363355ZqqZvv.root
+ELSE
+363355ZqqZvv
+WARNING this sample has no entries
+363355ZqqZvv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363356ZqqZll.root
+ELSE
+363356ZqqZll
+363356ZqqZll
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363357WqqZvv.root
+ELSE
+363357WqqZvv
+WARNING this sample has no entries
+363357WqqZvv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_364134ZtautauLight.root
+ELSE
+364134ZtautauLight
+364134ZtautauLight
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363358WqqZll.root
+ELSE
+363358WqqZll
+363358WqqZll
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363360WplvWmqq.root
+ELSE
+363360WplvWmqq
+363360WplvWmqq
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363359WpqqWmlv.root
+ELSE
+363359WpqqWmlv
+363359WpqqWmlv
+ntup_schan_2j_lnu_JET_JER_EffectiveNP_10__1up_PseudoData_363489WlvZqq.root
+ELSE
+363489WlvZqq
+363489WlvZqq
+XSECTION
+NORMALIZE Number
+0         0.193031
+1         0.192930
+2         0.212795
+3         0.139296
+4         0.133826
+            ...   
+548736    0.031092
+548737    0.030413
+548738    0.009922
+548739    0.027281
+548740    0.030256
+Length: 548741, dtype: float64 Number
+0         1.320931e+07
+1         1.320931e+07
+2         1.320931e+07
+3         1.320931e+07
+4         1.320931e+07
+              ...     
+548736    4.931298e+05
+548737    4.931298e+05
+548738    4.931298e+05
+548739    4.931298e+05
+548740    4.931298e+05
+Name: LumiMC, Length: 548741, dtype: float64 58450.1
+Number
+0         0.193031
+1         0.192930
+2         0.212795
+3         0.139296
+4         0.133826
+            ...   
+548736    0.031092
+548737    0.030413
+548738    0.009922
+548739    0.027281
+548740    0.030256
+Length: 548741, dtype: float64
+TRAINTEST
+HERE
+[[ 23120.   4087.]
+ [103785. 141775.]]
+Accuracy:  0.6045269405756561
+Precision:  0.18218352310783656
+Recall:  0.8497813062814716
+PLOT
+[0.         0.         0.         ... 0.82628602 0.8566696  0.89396608] X
+[0.         0.         0.         ... 0.99520504 0.99640781 0.99762887] Y
+Number
+243670            Wjets
+499892            ttbar
+519363    Zjets_Diboson
+78847          tChannel
+40457          sChannel
+65734         WtChannel
+Name: Group, dtype: object
+JET_JER_EffectiveNP_10__1up_PseudoData
+_JET_JER_EffectiveNP_10__1_up_PseudoData
+Writing to File /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Log_MainOutput/Even/MC16e/NeuralNetOutput/NeuralNetOutput__JET_JER_EffectiveNP_10__1_up_PseudoData.root
+writeGroups
+HERE
+[[4.3500200e-01]
+ [2.6372721e-02]
+ [4.3537170e-01]
+ ...
+ [3.0998972e-01]
+ [4.5990283e-04]
+ [7.4418288e-01]]
+36617
+(array([126.9143528 ,  16.51700664,   9.86208392, ...,   0.        ,
+         0.        ,   0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_Wjets_JET_JER_EffectiveNP_10__1_up_PseudoData
+HERE
+[[0.35668647]
+ [0.73670787]
+ [0.09222648]
+ ...
+ [0.19618548]
+ [0.74465746]
+ [0.46607494]]
+119946
+(array([187.20788157,  35.30697929,  25.11516644, ...,   0.        ,
+         0.        ,   0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_ttbar_JET_JER_EffectiveNP_10__1_up_PseudoData
+HERE
+[[3.9551604e-01]
+ [1.2769626e-01]
+ [3.1593600e-03]
+ ...
+ [3.3239540e-04]
+ [5.3717731e-04]
+ [7.6637715e-01]]
+25732
+(array([18.85715029,  2.3484436 ,  1.41241992, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_Zjets_Diboson_JET_JER_EffectiveNP_10__1_up_PseudoData
+HERE
+[[0.31029814]
+ [0.63596416]
+ [0.7702163 ]
+ ...
+ [0.71649617]
+ [0.48698926]
+ [0.68293536]]
+57026
+(array([1.30781332, 0.21372132, 0.03601309, ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_tChannel_JET_JER_EffectiveNP_10__1_up_PseudoData
+HERE
+[[0.80203277]
+ [0.60055447]
+ [0.60980546]
+ ...
+ [0.7086828 ]
+ [0.756565  ]
+ [0.8104539 ]]
+27207
+(array([0.10977629, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_sChannel_JET_JER_EffectiveNP_10__1_up_PseudoData
+HERE
+[[0.503373  ]
+ [0.76286745]
+ [0.20695226]
+ ...
+ [0.7125167 ]
+ [0.635063  ]
+ [0.11517698]]
+6239
+(array([36.13639102,  4.67561457,  3.22492417, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_WtChannel_JET_JER_EffectiveNP_10__1_up_PseudoData
+TOtal 272767

@@ -1,0 +1,576 @@
+['/users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py', 'JET_EtaIntercalibration_TotalStat__1up', 'MC16e', 'Odd']
+Running for Syst: JET_EtaIntercalibration_TotalStat__1up
+/rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_NewFullMEM_MC16e/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/JET_EtaIntercalibration_TotalStat__1up/
+                 1         2         3
+0                                     
+410000  377.993200  1.194900    pythia
+410001  377.993200  1.194900    pythia
+410002  377.993200  1.194900    pythia
+410003  377.309000  1.197000  herwigpp
+410004  378.700600  1.192600  herwigpp
+...            ...       ...       ...
+601738   40.113000  1.000000   pythia8
+601737   40.113000  1.000000   pythia8
+512185    0.343370  0.320823   pythia8
+512186    0.000002  0.491622   pythia8
+512187    0.008536  0.404554   pythia8
+
+[6239 rows x 3 columns]
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364162WmunuLight.root
+ELSE
+364162WmunuLight
+364162WmunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364159WmunuLight.root
+ELSE
+364159WmunuLight
+364159WmunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364156WmunuLight.root
+ELSE
+364156WmunuLight
+364156WmunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410647Wtbar.root
+ELSE
+410647Wtbar
+410647Wtbar
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364165WmunuLight.root
+ELSE
+364165WmunuLight
+364165WmunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364170WenuLight.root
+ELSE
+364170WenuLight
+364170WenuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410646Wt.root
+ELSE
+410646Wt
+410646Wt
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410644schanlt.root
+ELSE
+410644schanlt
+410644schanlt
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364173WenuLight.root
+ELSE
+364173WenuLight
+364173WenuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410645schanltbar.root
+ELSE
+410645schanltbar
+410645schanltbar
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364179WenuLight.root
+ELSE
+364179WenuLight
+364179WenuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364190WtaunuLight.root
+ELSE
+364190WtaunuLight
+364190WtaunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364193WtaunuLight.root
+ELSE
+364193WtaunuLight
+WARNING this sample has no entries
+364193WtaunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364157WmunuC.root
+ELSE
+364157WmunuC
+364157WmunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364158WmunuB.root
+ELSE
+364158WmunuB
+364158WmunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364176WenuLight.root
+ELSE
+364176WenuLight
+364176WenuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364160WmunuC.root
+ELSE
+364160WmunuC
+364160WmunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364187WtaunuLight.root
+ELSE
+364187WtaunuLight
+364187WtaunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364184WtaunuLight.root
+ELSE
+364184WtaunuLight
+WARNING this sample has no entries
+364184WtaunuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364163WmunuC.root
+ELSE
+364163WmunuC
+364163WmunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364166WmunuC.root
+ELSE
+364166WmunuC
+364166WmunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410658tchanlt.root
+ELSE
+410658tchanlt
+410658tchanlt
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364161WmunuB.root
+ELSE
+364161WmunuB
+364161WmunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364171WenuC.root
+ELSE
+364171WenuC
+364171WenuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364167WmunuB.root
+ELSE
+364167WmunuB
+364167WmunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410659tchanltbar.root
+ELSE
+410659tchanltbar
+410659tchanltbar
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364172WenuB.root
+ELSE
+364172WenuB
+364172WenuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364174WenuC.root
+ELSE
+364174WenuC
+364174WenuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364164WmunuB.root
+ELSE
+364164WmunuB
+364164WmunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364177WenuC.root
+ELSE
+364177WenuC
+364177WenuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364175WenuB.root
+ELSE
+364175WenuB
+364175WenuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364180WenuC.root
+ELSE
+364180WenuC
+364180WenuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364185WtaunuC.root
+ELSE
+364185WtaunuC
+WARNING this sample has no entries
+364185WtaunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364181WenuB.root
+ELSE
+364181WenuB
+364181WenuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364186WtaunuB.root
+ELSE
+364186WtaunuB
+364186WtaunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364189WtaunuB.root
+ELSE
+364189WtaunuB
+364189WtaunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364188WtaunuC.root
+ELSE
+364188WtaunuC
+364188WtaunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364191WtaunuC.root
+ELSE
+364191WtaunuC
+364191WtaunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364178WenuB.root
+ELSE
+364178WenuB
+364178WenuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364192WtaunuB.root
+ELSE
+364192WtaunuB
+364192WtaunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364194WtaunuC.root
+ELSE
+364194WtaunuC
+364194WtaunuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364195WtaunuB.root
+ELSE
+364195WtaunuB
+364195WtaunuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364168Wmunu.root
+ELSE
+364168Wmunu
+364168Wmunu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364169Wmunu.root
+ELSE
+364169Wmunu
+364169Wmunu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364182Wenu.root
+ELSE
+364182Wenu
+364182Wenu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364183Wenu.root
+ELSE
+364183Wenu
+364183Wenu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364196Wtaunu.root
+ELSE
+364196Wtaunu
+364196Wtaunu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364197Wtaunu.root
+ELSE
+364197Wtaunu
+364197Wtaunu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364100ZmumuLight.root
+ELSE
+364100ZmumuLight
+364100ZmumuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364101ZmumuC.root
+ELSE
+364101ZmumuC
+364101ZmumuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364102ZmumuB.root
+ELSE
+364102ZmumuB
+364102ZmumuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364103ZmumuLight.root
+ELSE
+364103ZmumuLight
+WARNING this sample has no entries
+364103ZmumuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364104ZmumuC.root
+ELSE
+364104ZmumuC
+364104ZmumuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364106ZmumuLight.root
+ELSE
+364106ZmumuLight
+WARNING this sample has no entries
+364106ZmumuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364105ZmumuB.root
+ELSE
+364105ZmumuB
+364105ZmumuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364107ZmumuC.root
+ELSE
+364107ZmumuC
+364107ZmumuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364109ZmumuLight.root
+ELSE
+364109ZmumuLight
+364109ZmumuLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364108ZmumuB.root
+ELSE
+364108ZmumuB
+364108ZmumuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364110ZmumuC.root
+ELSE
+364110ZmumuC
+364110ZmumuC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364111ZmumuB.root
+ELSE
+364111ZmumuB
+364111ZmumuB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364112Zmumu.root
+ELSE
+364112Zmumu
+364112Zmumu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364114ZeeLight.root
+ELSE
+364114ZeeLight
+WARNING this sample has no entries
+364114ZeeLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364113Zmumu.root
+ELSE
+364113Zmumu
+364113Zmumu
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364115ZeeC.root
+ELSE
+364115ZeeC
+364115ZeeC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364117ZeeLight.root
+ELSE
+364117ZeeLight
+364117ZeeLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364116ZeeB.root
+ELSE
+364116ZeeB
+364116ZeeB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364118ZeeC.root
+ELSE
+364118ZeeC
+364118ZeeC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364119ZeeB.root
+ELSE
+364119ZeeB
+364119ZeeB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364120ZeeLight.root
+ELSE
+364120ZeeLight
+364120ZeeLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364121ZeeC.root
+ELSE
+364121ZeeC
+364121ZeeC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364123ZeeLight.root
+ELSE
+364123ZeeLight
+WARNING this sample has no entries
+364123ZeeLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364122ZeeB.root
+ELSE
+364122ZeeB
+364122ZeeB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364124ZeeC.root
+ELSE
+364124ZeeC
+364124ZeeC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364128ZtautauLight.root
+ELSE
+364128ZtautauLight
+WARNING this sample has no entries
+364128ZtautauLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364127Zee.root
+ELSE
+364127Zee
+364127Zee
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364126Zee.root
+ELSE
+364126Zee
+364126Zee
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364125ZeeB.root
+ELSE
+364125ZeeB
+364125ZeeB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364129ZtautauC.root
+ELSE
+364129ZtautauC
+364129ZtautauC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364130ZtautauB.root
+ELSE
+364130ZtautauB
+364130ZtautauB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364131ZtautauLight.root
+ELSE
+364131ZtautauLight
+364131ZtautauLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364132ZtautauC.root
+ELSE
+364132ZtautauC
+364132ZtautauC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364133ZtautauB.root
+ELSE
+364133ZtautauB
+364133ZtautauB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364134ZtautauLight.root
+ELSE
+364134ZtautauLight
+364134ZtautauLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364135ZtautauC.root
+ELSE
+364135ZtautauC
+364135ZtautauC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364136ZtautauB.root
+ELSE
+364136ZtautauB
+364136ZtautauB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364137ZtautauLight.root
+ELSE
+364137ZtautauLight
+364137ZtautauLight
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364138ZtautauC.root
+ELSE
+364138ZtautauC
+364138ZtautauC
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364141Ztautau.root
+ELSE
+364141Ztautau
+364141Ztautau
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364140Ztautau.root
+ELSE
+364140Ztautau
+364140Ztautau
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364250llll.root
+ELSE
+364250llll
+364250llll
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_410470ttbar.root
+ELSE
+410470ttbar
+410470ttbar
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363355ZqqZvv.root
+ELSE
+363355ZqqZvv
+WARNING this sample has no entries
+363355ZqqZvv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363357WqqZvv.root
+ELSE
+363357WqqZvv
+WARNING this sample has no entries
+363357WqqZvv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363356ZqqZll.root
+ELSE
+363356ZqqZll
+363356ZqqZll
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364253lllv.root
+ELSE
+364253lllv
+364253lllv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364254llvv.root
+ELSE
+364254llvv
+364254llvv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363359WpqqWmlv.root
+ELSE
+363359WpqqWmlv
+363359WpqqWmlv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364255lvvv.root
+ELSE
+364255lvvv
+364255lvvv
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363360WplvWmqq.root
+ELSE
+363360WplvWmqq
+363360WplvWmqq
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_364139ZtautauB.root
+ELSE
+364139ZtautauB
+364139ZtautauB
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363358WqqZll.root
+ELSE
+363358WqqZll
+363358WqqZll
+ntup_schan_2j_lnu_JET_EtaIntercalibration_TotalStat__1up_363489WlvZqq.root
+ELSE
+363489WlvZqq
+363489WlvZqq
+XSECTION
+NORMALIZE Number
+0         1.847368
+1         1.932589
+2         2.822341
+3         2.580223
+4        -6.107183
+            ...   
+546135    0.031092
+546136    0.030413
+546137    0.009922
+546138    0.027281
+546139    0.030256
+Length: 546140, dtype: float64 Number
+0          37198.243424
+1          37198.243424
+2          37198.243424
+3          37198.243424
+4          11010.305029
+              ...      
+546135    493129.764304
+546136    493129.764304
+546137    493129.764304
+546138    493129.764304
+546139    493129.764304
+Name: LumiMC, Length: 546140, dtype: float64 58450.1
+Number
+0         1.847368
+1         1.932589
+2         2.822341
+3         2.580223
+4        -6.107183
+            ...   
+546135    0.031092
+546136    0.030413
+546137    0.009922
+546138    0.027281
+546139    0.030256
+Length: 546140, dtype: float64
+TRAINTEST
+HERE
+[[ 23023.   4103.]
+ [103353. 141096.]]
+Accuracy:  0.6043229310503544
+Precision:  0.18217857821105274
+Recall:  0.8487429034874291
+PLOT
+[0.         0.         0.         ... 0.82628602 0.8566696  0.89396608] X
+[0.         0.         0.         ... 0.99520504 0.99640781 0.99762887] Y
+Number
+445516            ttbar
+165375         tChannel
+248903            Wjets
+21045          sChannel
+539076    Zjets_Diboson
+2868          WtChannel
+Name: Group, dtype: object
+JET_EtaIntercalibration_TotalStat__1up
+_JET_EtaIntercalibration_TotalStat__1_up
+Writing to File /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Log_MainOutput/Even/MC16e/NeuralNetOutput/NeuralNetOutput__JET_EtaIntercalibration_TotalStat__1_up.root
+writeGroups
+HERE
+[[0.10224105]
+ [0.02507858]
+ [0.11477627]
+ ...
+ [0.6519118 ]
+ [0.00241342]
+ [0.1675738 ]]
+119118
+(array([187.18224016,  34.1718929 ,  26.64304233, ...,   0.        ,
+         0.        ,   0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_ttbar_JET_EtaIntercalibration_TotalStat__1_up
+HERE
+[[0.5339985 ]
+ [0.7124495 ]
+ [0.7343122 ]
+ ...
+ [0.69860774]
+ [0.7163228 ]
+ [0.82231945]]
+56926
+(array([1.1981287 , 0.29017164, 0.01562538, ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_tChannel_JET_EtaIntercalibration_TotalStat__1_up
+HERE
+[[0.00092751]
+ [0.7619507 ]
+ [0.7711105 ]
+ ...
+ [0.24550925]
+ [0.7485618 ]
+ [0.58809847]]
+36551
+(array([127.03345564,  16.33220427,   8.81515648, ...,   0.        ,
+         0.        ,   0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_Wjets_JET_EtaIntercalibration_TotalStat__1_up
+HERE
+[[0.79295355]
+ [0.16948223]
+ [0.7879259 ]
+ ...
+ [0.7312577 ]
+ [0.75928754]
+ [0.65054494]]
+27126
+(array([0.10977629, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_sChannel_JET_EtaIntercalibration_TotalStat__1_up
+HERE
+[[0.5350155 ]
+ [0.20936967]
+ [0.3876998 ]
+ ...
+ [0.08705659]
+ [0.52571666]
+ [0.78556323]]
+25641
+(array([19.24806558,  2.3588681 ,  1.52257396, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_Zjets_Diboson_JET_EtaIntercalibration_TotalStat__1_up
+HERE
+[[3.6599998e-10]
+ [7.3868763e-01]
+ [7.3869526e-04]
+ ...
+ [2.8012165e-01]
+ [2.5131449e-01]
+ [2.9387338e-06]]
+6213
+(array([35.69544314,  4.51508035,  3.16149077, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_WtChannel_JET_EtaIntercalibration_TotalStat__1_up
+TOtal 271575

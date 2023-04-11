@@ -1,0 +1,140 @@
+['/users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py', 'MCWEIGHT_FIXEDPOS_112', 'MC16e', 'Odd']
+Running for Syst: MCWEIGHT_FIXEDPOS_112
+/rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_NewFullMEM_MC16e/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/MCWEIGHT_FIXEDPOS_112/
+                 1         2         3
+0                                     
+410000  377.993200  1.194900    pythia
+410001  377.993200  1.194900    pythia
+410002  377.993200  1.194900    pythia
+410003  377.309000  1.197000  herwigpp
+410004  378.700600  1.192600  herwigpp
+...            ...       ...       ...
+601738   40.113000  1.000000   pythia8
+601737   40.113000  1.000000   pythia8
+512185    0.343370  0.320823   pythia8
+512186    0.000002  0.491622   pythia8
+512187    0.008536  0.404554   pythia8
+
+[6239 rows x 3 columns]
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410644schanlt.root
+ELSE
+410644schanlt
+410644schanlt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410647Wtbar.root
+ELSE
+410647Wtbar
+410647Wtbar
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410646Wt.root
+ELSE
+410646Wt
+410646Wt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410645schanltbar.root
+ELSE
+410645schanltbar
+410645schanltbar
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410658tchanlt.root
+ELSE
+410658tchanlt
+410658tchanlt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_112_410659tchanltbar.root
+ELSE
+410659tchanltbar
+410659tchanltbar
+XSECTION
+NORMALIZE Number
+0         0.037690
+1         0.044586
+2         0.045774
+3         0.043284
+4         0.043123
+            ...   
+182156    0.011167
+182157    0.050269
+182158    0.055286
+182159   -0.048916
+182160    0.058187
+Length: 182161, dtype: float64 Number
+0         2.462372e+06
+1         2.462372e+06
+2         2.462372e+06
+3         2.462372e+06
+4         2.462372e+06
+              ...     
+182156    2.615123e+07
+182157    2.615123e+07
+182158    2.615123e+07
+182159    2.615123e+07
+182160    2.615123e+07
+Name: LumiMC, Length: 182161, dtype: float64 58450.1
+Number
+0         0.037690
+1         0.044586
+2         0.045774
+3         0.043284
+4         0.043123
+            ...   
+182156    0.011167
+182157    0.050269
+182158    0.055286
+182159   -0.048916
+182160    0.058187
+Length: 182161, dtype: float64
+TRAINTEST
+HERE
+[[23116.  4109.]
+ [37328. 26115.]]
+Accuracy:  0.5429809855737415
+Precision:  0.3824366355634968
+Recall:  0.8490725436179981
+PLOT
+[0.         0.         0.         ... 0.82628602 0.8566696  0.89396608] X
+[0.         0.         0.         ... 0.99520504 0.99640781 0.99762887] Y
+Number
+100064     tChannel
+26788     WtChannel
+12313      sChannel
+Name: Group, dtype: object
+MCWEIGHT_FIXEDPOS_112
+_MCWEIGHT_FIXEDPOS_112
+Writing to File /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Log_MainOutput/Even/MC16e/NeuralNetOutput/NeuralNetOutput__MCWEIGHT_FIXEDPOS_112.root
+writeGroups
+HERE
+[[0.70191437]
+ [0.61325073]
+ [0.43192744]
+ ...
+ [0.324176  ]
+ [0.53198117]
+ [0.7950539 ]]
+57204
+(array([1.2786177 , 0.21293905, 0.04016272, ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_tChannel_MCWEIGHT_FIXEDPOS_112
+HERE
+[[0.07810951]
+ [0.01802161]
+ [0.69041073]
+ ...
+ [0.69988173]
+ [0.57477707]
+ [0.642934  ]]
+6239
+(array([33.84501546,  4.58823834,  2.82793932, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_WtChannel_MCWEIGHT_FIXEDPOS_112
+HERE
+[[0.7327254 ]
+ [0.69712377]
+ [0.7695931 ]
+ ...
+ [0.6686206 ]
+ [0.6551022 ]
+ [0.7214763 ]]
+27225
+(array([0.11110918, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_sChannel_MCWEIGHT_FIXEDPOS_112
+TOtal 90668

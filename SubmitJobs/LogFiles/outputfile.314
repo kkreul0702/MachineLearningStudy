@@ -1,0 +1,158 @@
+['/users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py', 'MCWEIGHT_FIXEDPOS_122', 'MC16e', 'Odd']
+Running for Syst: MCWEIGHT_FIXEDPOS_122
+/rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_NewFullMEM_MC16e/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/MCWEIGHT_FIXEDPOS_122/
+                 1         2         3
+0                                     
+410000  377.993200  1.194900    pythia
+410001  377.993200  1.194900    pythia
+410002  377.993200  1.194900    pythia
+410003  377.309000  1.197000  herwigpp
+410004  378.700600  1.192600  herwigpp
+...            ...       ...       ...
+601738   40.113000  1.000000   pythia8
+601737   40.113000  1.000000   pythia8
+512185    0.343370  0.320823   pythia8
+512186    0.000002  0.491622   pythia8
+512187    0.008536  0.404554   pythia8
+
+[6239 rows x 3 columns]
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410646Wt.root
+ELSE
+410646Wt
+410646Wt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410658tchanlt.root
+ELSE
+410658tchanlt
+410658tchanlt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410659tchanltbar.root
+ELSE
+410659tchanltbar
+410659tchanltbar
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410647Wtbar.root
+ELSE
+410647Wtbar
+410647Wtbar
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410644schanlt.root
+ELSE
+410644schanlt
+410644schanlt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410645schanltbar.root
+ELSE
+410645schanltbar
+410645schanltbar
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_122_410470ttbar.root
+ELSE
+410470ttbar
+410470ttbar
+XSECTION
+NORMALIZE Number
+0         0.150512
+1         0.203154
+2         0.117076
+3         0.174190
+4         0.145613
+            ...   
+422127    0.168896
+422128    0.170160
+422129    0.230184
+422130    0.187950
+422131    0.189205
+Length: 422132, dtype: float64 Number
+0         1.320931e+07
+1         1.320931e+07
+2         1.320931e+07
+3         1.320931e+07
+4         1.320931e+07
+              ...     
+422127    2.396339e+08
+422128    2.396339e+08
+422129    2.396339e+08
+422130    2.396339e+08
+422131    2.396339e+08
+Name: LumiMC, Length: 422132, dtype: float64 58450.1
+Number
+0         0.150512
+1         0.203154
+2         0.117076
+3         0.174190
+4         0.145613
+            ...   
+422127    0.168896
+422128    0.170160
+422129    0.230184
+422130    0.187950
+422131    0.189205
+Length: 422132, dtype: float64
+TRAINTEST
+HERE
+[[ 23116.   4109.]
+ [ 79695. 103790.]]
+Accuracy:  0.6022780124341512
+Precision:  0.2248397545009775
+Recall:  0.8490725436179981
+PLOT
+[0.         0.         0.         ... 0.82628602 0.8566696  0.89396608] X
+[0.         0.         0.         ... 0.99520504 0.99640781 0.99762887] Y
+Number
+259120        ttbar
+132944     sChannel
+86921      tChannel
+2802      WtChannel
+Name: Group, dtype: object
+MCWEIGHT_FIXEDPOS_122
+_MCWEIGHT_FIXEDPOS_122
+Writing to File /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Log_MainOutput/Even/MC16e/NeuralNetOutput/NeuralNetOutput__MCWEIGHT_FIXEDPOS_122.root
+writeGroups
+HERE
+[[0.5209514 ]
+ [0.00927285]
+ [0.7088485 ]
+ ...
+ [0.36384225]
+ [0.16139019]
+ [0.121705  ]]
+120042
+(array([183.30497541,  34.67695763,  24.17105786, ...,   0.        ,
+         0.        ,   0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_ttbar_MCWEIGHT_FIXEDPOS_122
+HERE
+[[0.7104292 ]
+ [0.8254637 ]
+ [0.7514982 ]
+ ...
+ [0.6907214 ]
+ [0.756873  ]
+ [0.77828604]]
+27225
+(array([0.11135465, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_sChannel_MCWEIGHT_FIXEDPOS_122
+HERE
+[[0.44060957]
+ [0.723925  ]
+ [0.5662448 ]
+ ...
+ [0.30828977]
+ [0.58389527]
+ [0.5121348 ]]
+57204
+(array([1.26856765, 0.21182146, 0.03968581, ..., 0.        , 0.        ,
+       0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_tChannel_MCWEIGHT_FIXEDPOS_122
+HERE
+[[0.15710703]
+ [0.7205827 ]
+ [0.7480211 ]
+ ...
+ [0.52507746]
+ [0.7132754 ]
+ [0.02474117]]
+6239
+(array([33.38824689,  4.52867386,  2.78992286, ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_WtChannel_MCWEIGHT_FIXEDPOS_122
+TOtal 210710

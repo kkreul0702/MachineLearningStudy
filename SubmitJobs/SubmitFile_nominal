@@ -1,0 +1,39 @@
+#executable   = /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Condor/RunMain.run
+executable   = /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py
+
+#arguments    = JET_JER_EffectiveNP_2__1up
+#executable = /usr/bin/python
+arguments = -infile ListOfSysts.txt
+Universe   = vanilla
+#getenv = True
+requirements = regexp( ".*as[2,1].b.*", TARGET.Name )
+
+output       = LogFiles/outputfile.$(ProcId)
+error        = LogFiles/errorfile.$(ProcId)
+log          = myexe.log
+
+request_cpus   = 1
+request_memory = 1024
+request_disk   = 10240
+
+#should_transfer_files = yes
+
+ 
+#argument from (
+#-infile ListOfSysts.txt
+#)
+
+#queue arguments from (
+#JET_JER_EffectiveNP_2__1up
+#MU_SF_TTVA_STAT__1down
+#JET_EtaIntercalibration_NonClosure_negEta__1up
+#)
+
+queue arguments from (
+nominal MC16a Odd
+nominal MC16d Odd
+nominal MC16e Odd
+nominal MC16a Even
+nominal MC16d Even
+nominal MC16e Even
+)

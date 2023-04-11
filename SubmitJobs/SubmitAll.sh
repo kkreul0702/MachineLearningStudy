@@ -1,0 +1,10 @@
+condor_submit SubmitFile_MC16aEven
+condor_submit SubmitFile_MC16dEven
+condor_submit SubmitFile_MC16eEven
+condor_submit SubmitFile_MC16aOdd
+condor_submit SubmitFile_MC16dOdd
+condor_submit SubmitFile_MC16eOdd
+
+
+
+ 

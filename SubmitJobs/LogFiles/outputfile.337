@@ -1,0 +1,96 @@
+['/users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Main2.py', 'MCWEIGHT_FIXEDPOS_147', 'MC16e', 'Odd']
+Running for Syst: MCWEIGHT_FIXEDPOS_147
+/rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_NewFullMEM_MC16e/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/MCWEIGHT_FIXEDPOS_147/
+                 1         2         3
+0                                     
+410000  377.993200  1.194900    pythia
+410001  377.993200  1.194900    pythia
+410002  377.993200  1.194900    pythia
+410003  377.309000  1.197000  herwigpp
+410004  378.700600  1.192600  herwigpp
+...            ...       ...       ...
+601738   40.113000  1.000000   pythia8
+601737   40.113000  1.000000   pythia8
+512185    0.343370  0.320823   pythia8
+512186    0.000002  0.491622   pythia8
+512187    0.008536  0.404554   pythia8
+
+[6239 rows x 3 columns]
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_147_410646Wt.root
+ELSE
+410646Wt
+410646Wt
+ntup_schan_2j_lnu_MCWEIGHT_FIXEDPOS_147_410647Wtbar.root
+ELSE
+410647Wtbar
+410647Wtbar
+XSECTION
+NORMALIZE Number
+0        0.112738
+1        0.166600
+2        0.081853
+3        0.220669
+4        0.245941
+           ...   
+12823    0.196346
+12824    0.154681
+12825    0.112459
+12826    0.131446
+12827    0.273134
+Length: 12828, dtype: float64 Number
+0        1.320931e+07
+1        1.320931e+07
+2        1.320931e+07
+3        1.320931e+07
+4        1.320931e+07
+             ...     
+12823    1.317518e+07
+12824    1.317518e+07
+12825    1.317518e+07
+12826    1.317518e+07
+12827    1.317518e+07
+Name: LumiMC, Length: 12828, dtype: float64 58450.1
+Number
+0        0.112738
+1        0.166600
+2        0.081853
+3        0.220669
+4        0.245941
+           ...   
+12823    0.196346
+12824    0.154681
+12825    0.112459
+12826    0.131446
+12827    0.273134
+Length: 12828, dtype: float64
+TRAINTEST
+HERE
+[[   0.    0.]
+ [2173. 4066.]]
+Accuracy:  0.6517070043276166
+Precision:  0.0
+Recall:  nan
+PLOT
+[0.         0.         0.         ... 0.82628602 0.8566696  0.89396608] X
+[0.         0.         0.         ... 0.99520504 0.99640781 0.99762887] Y
+Number
+21    WtChannel
+Name: Group, dtype: object
+MCWEIGHT_FIXEDPOS_147
+_MCWEIGHT_FIXEDPOS_147
+Writing to File /users/eeh/kkreul/MachineLearning/Env2/schanmachinelearning/Log_MainOutput/Even/MC16e/NeuralNetOutput/NeuralNetOutput__MCWEIGHT_FIXEDPOS_147.root
+writeGroups
+HERE
+[[0.04202149]
+ [0.22381468]
+ [0.7128633 ]
+ ...
+ [0.59235966]
+ [0.02004642]
+ [0.23377588]]
+6239
+(array([34.49295757,  5.59294759,  2.8595412 , ...,  0.        ,
+        0.        ,  0.        ]), array([0.00000000e+00, 5.00025001e-05, 1.00005000e-04, ...,
+       9.99899995e-01, 9.99949997e-01, 1.00000000e+00]))
+Saving to Hist NeuralNetOutput_WtChannel_MCWEIGHT_FIXEDPOS_147
+TOtal 6239
